@@ -26,8 +26,8 @@ Illustration of how this network works:
 
 - Link to slides : **[Slides ](https://docs.google.com/presentation/d/1kjXItpXmZkRsIuvp_h3WrM2JI7drxxQ8FyROHSFQuCE/edit?usp=sharing)** 
 
-__
+___
 
-GOTURN implemented in a colab ipython Notebook can be found in the following : [Code](https://colab.research.google.com/drive/1faWd1fuwwL0gBQkDAlj8aNvuX6_s4AmO)
+- GOTURN implemented in a colab ipython Notebook can be found in the following : [Code](https://colab.research.google.com/drive/1faWd1fuwwL0gBQkDAlj8aNvuX6_s4AmO)
 
 - YOLO Implemented in C :  **[Chay16/TrackingVideo ](https://github.com/Chay16/TrackingVideo)**  
